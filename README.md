@@ -1,5 +1,7 @@
 # Aprendizado SQL utilizando:
 
+# Local destinado para unificar tudo que eu aprendi e irei aprender referente a sql
+
 - **SELECT**
 - **COUNT**
 - **WHERE**
